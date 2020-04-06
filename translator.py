@@ -1,8 +1,7 @@
 from googletrans import Translator
 import sys
 
-# HOW TO RUN: python translator.py (file) (source language (user language abbreviation - en, de, ja...) )
-# (destination language (user language abbreviation - en, de, ja...))')
+# HOW TO RUN: python translator.py (file) destination language (user language abbreviation - en, de, ja...))')
 
 translator = Translator()
 
